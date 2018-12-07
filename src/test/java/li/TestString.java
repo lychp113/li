@@ -113,6 +113,7 @@ public class TestString {
 	}
 	@Test
 	public void testA() {
+		System.out.println("lichunping");
 		System.out.println(isFiltFltCode("CZ2240-28NOV18"));
 		
 	}
